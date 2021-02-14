@@ -12,13 +12,13 @@
 
 **To install PIL:**
 1. Run Command Prompt as Administrator
-2. Execute this command (without '')
+2. Execute this command
 
     `pip install pillow`
 
 **To install PYGLET:**
 1. Run Command Prompt as Administrator
-2. Execute this command (without '')
+2. Execute this command
 
     `pip install pyglet`
 
