@@ -1,7 +1,7 @@
 
 # Safar Suhaana
 
-**A python bus ticket booking system that uses mysql as an offline database and tkinter library for GUI Implementation.**
+**A python bus ticket booking system project that uses mysql as an offline database and tkinter library for GUI Implementation.**
 
  Run the project by executing 'safar_suhaana' in IDLE
 
